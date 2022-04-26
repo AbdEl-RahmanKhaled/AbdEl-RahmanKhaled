@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdel-rahmankhaled&label=Profile%20views&color=0e75b6&style=flat" alt="abdel-rahmankhaled" /> </p>
 
+ <div align=center>
+        <img src="https://github.com/AbdEl-RahmanKhaled/AbdEl-RahmanKhaled/blob/main/images/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdel-rahmankhaled" alt="abdel-rahmankhaled" /></a> </p>
 
 - 📫 How to reach me **abdelrahman.khaled.anw@gmail.com**
